@@ -12,6 +12,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <meta name="yandex-verification" content="1845c2b9551a415a" />
         <title>Бездепозитные бонусы за регистрацию в RAMENBET — бездеп бонусы и фриспины</title>
         <meta
           name="description"
